@@ -1,7 +1,7 @@
 export default {
   github: 'https://github.com/Samael3003/nextjs-docs',
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ' – Antariksh Astronomy Club',
+  titleSuffix: ' – Antariksh Club',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Antariksh</span>
@@ -61,7 +61,7 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  // footerEditLink: 'Edit this page on GitHub',
+  footerEditLink: 'How we designed this website?',
   footerText: <>MIT {new Date().getFullYear()} © Antariksh Astronomy Club.</>,
   unstable_faviconGlyph: '🌠',
 }
