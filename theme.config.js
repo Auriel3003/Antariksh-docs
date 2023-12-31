@@ -62,6 +62,6 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © Samael3003.</>,
+  footerText: <>MIT {new Date().getFullYear()} © Antariksh Astronomy Club.</>,
   unstable_faviconGlyph: '🌠',
 }
