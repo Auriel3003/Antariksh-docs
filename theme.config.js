@@ -1,5 +1,5 @@
 export default {
-  github: 'https://github.com/',
+  github: 'https://github.com/AntarikshClub',
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
   titleSuffix: ' – Antariksh Club',
   logo: (
