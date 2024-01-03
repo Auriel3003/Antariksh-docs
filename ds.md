@@ -9,29 +9,31 @@
 
 ***Host talks, workshops**, and **events** featuring distinguished professionals to provide insights into cutting-edge research and developments in space science.*
 
-1. **Practical Engagement:**
+# **Practical Engagement:**
 
 *Facilitate practical learning through regular **star-gazing** sessions, **field visits**, and **observatory tours**.*
 
-1. **Research Opportunities:**
+# **Research Opportunities:**
 
 *Encourage active participation in projects, investigations, and space science and engineering experiments.*
 
-1. **Technical Projects:**
+# **Technical Projects:**
 
 *Initiate and manage technical projects, enhancing technical expertise and problem-solving capabilities.*
 
-1. **Community Building:**
+# **Community Building:**
 
 *Organise regular **internal talks**, **discussions**, and **collaborative activities** to develop a strong sense of community.*
 
-1. **Soft Skills Development:**
+# **Soft Skills Development:**
 
 *Emphasise enhancing soft skills such as **communication**, **teamwork**, and **leadership** and create a nurturing environment where members can grow personally and professionally.*
 
-- **Organisation Skills:**
-  1. *Cultivate **organisational skills** through planning and executing events, field trips, and workshops related to space science.*
-  2. *Inculcating **Research Culture** through sharing knowledge and providing hands-on experiments and implementations in Engineering and Sciences.*
-- **Outreach and Public Engagement:**
+# **Organisation Skills:**
+
+1. *Cultivate **organisational skills** through planning and executing events, field trips, and workshops related to space science.*
+2. *Inculcating **Research Culture** through sharing knowledge and providing hands-on experiments and implementations in Engineering and Sciences.*
+
+# **Outreach and Public Engagement:**
 
 *Engage in outreach activities and conduct **public lectures**,**stargazing events**, and **workshops** to share the universe’s wonders with the broader community.*
