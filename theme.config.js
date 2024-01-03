@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/Samael3003/nextjs-docs',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  github: 'https://github.com/',
+  docsRepositoryBase: '',
   titleSuffix: ' – Antariksh Club',
   logo: (
     <>
