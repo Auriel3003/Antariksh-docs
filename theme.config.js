@@ -1,6 +1,6 @@
 export default {
   github: 'https://github.com/',
-  docsRepositoryBase: '',
+  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
   titleSuffix: ' – Antariksh Club',
   logo: (
     <>
